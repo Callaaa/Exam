@@ -1,0 +1,37 @@
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Admin\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\ExamProblem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\ExamProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\ExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Admin\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\bin\Debug\Exam.exe.config
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\bin\Debug\Exam.exe
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\bin\Debug\Exam.pdb
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\obj\Debug\ExamProblem.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\obj\Debug\ExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\obj\Debug\Exam.exe
+C:\Users\STUDENTS-1212-1\Desktop\Нова папка\Exam\obj\Debug\Exam.pdb
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\bin\Debug\Exam.exe.config
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\bin\Debug\Exam.exe
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\bin\Debug\Exam.pdb
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\obj\Debug\ExamProblem.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\obj\Debug\ExamProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\obj\Debug\ExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\obj\Debug\Exam.exe
+C:\Users\gabri\OneDrive\Работен плот\Нова папка\Exam\obj\Debug\Exam.pdb
+C:\Users\Teachers\Desktop\Exam\Exam\obj\Debug\ExamProblem.csproj.AssemblyReference.cache
+C:\Users\Teachers\Desktop\Exam\Exam\obj\Debug\ExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\Teachers\Desktop\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Teachers\Desktop\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Teachers\Desktop\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Teachers\Desktop\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Teachers\Desktop\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\obj\Debug\ExamProblem.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\obj\Debug\ExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\STUDENTS-1212-1\Desktop\Exam\Exam\Exam\obj\Debug\Exam.pdb
